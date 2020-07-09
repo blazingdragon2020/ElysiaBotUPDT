@@ -9,7 +9,7 @@
   "author": "soham",
   "license": "ISC",
   "dependencies": {
-    "brawlstars": "^2.0.1",
+    
     "discord.js": "^11.5.1"
   }
 }
