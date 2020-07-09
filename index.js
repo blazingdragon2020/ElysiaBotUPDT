@@ -2,6 +2,8 @@
 const token = process.env.token;
 const prefix = "/"
 const Discord = require("discord.js");
+const port = process.env.PORT
+
 
 
 var client =  new Discord.Client({disableEveryone: true})
